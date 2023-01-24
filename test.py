@@ -21,3 +21,5 @@ print("sub :", sub(a, b))
 print("mul :", mul(a, b))
 print("div :", div(a, b))
 
+
+print("1")
